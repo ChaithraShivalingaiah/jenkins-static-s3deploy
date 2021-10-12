@@ -1,0 +1,1 @@
+# jenkins-static-s3deploy
